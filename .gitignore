@@ -3,6 +3,7 @@ Build/
 DerivedDataCache/
 Intermediate/
 Saved/
+Large_files/
 
 .vs/
 .idea/
